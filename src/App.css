@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: white;
+}
+
+.pt-0 {
+  padding-top: 0!important;
+}
+
+.m-2 {
+  margin: .5rem !important;
+}
+
+.mb-5 {
+  margin-bottom: 3rem !important;
+}
+
+.text-capitalize {
+  text-transform: capitalize;
+}
+
+.text-green {
+  color: #18b118;
+}
